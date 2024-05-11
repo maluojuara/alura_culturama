@@ -298,11 +298,15 @@ img:hover {
 
 .agenda__informacoes h3 {
     font-size: 2rem;
+    font-family: var(--fonte-secundaria);
+    line-height: 2.2rem;
 }
 
 .agenda__informacoes h4,
 .agenda__informacoes h5 {
     font-size: 1.5rem;
+    font-family: var(--fonte-secundaria);
+    line-height: 2.2rem;
 }
 
 .agenda__item .agenda__atracao {
